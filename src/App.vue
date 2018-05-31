@@ -19,9 +19,11 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .app {
   text-align: center;
+  .app-logo {
+    height: 80px;
+  }
 }
 </style>
-
